@@ -1,2 +1,2 @@
 # baokim-connect
-Create an connection with BaoKimAPI
+Create an connection with BaoKimAPI Test

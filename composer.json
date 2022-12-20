@@ -12,6 +12,7 @@
             "email": "duynv1499@gmail.com"
         }
     ],
+
     "autoload": {
         "psr-4": {
             "App\\": "src/"
