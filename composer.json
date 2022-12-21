@@ -20,10 +20,10 @@
         }
     },
     "extra": {
-        "class": "src\\ConnectionServiceProvider",
+        "class": "ConnectionServiceProvider",
         "laravel": {
             "providers": [
-                "src\\ConnectionServiceProvider"
+                "ConnectionServiceProvider"
             ]
         }
     },
