@@ -20,7 +20,7 @@
         }
     },
     "extra": {
-        "class": "App\\ConnectionServiceProvider",
+        "class": "App\\Connect",
         "laravel": {
             "providers": [
                 "ConnectionServiceProvider"
