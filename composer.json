@@ -4,7 +4,7 @@
     "type": "composer-plugin",
     "minimum-stability": "dev",
     "require": {
-        "composer/installers": "^2.4.2",
+        "composer-plugin-api": "^2.0",
         "php": ">=5.8"
     },
     "authors": [
@@ -29,5 +29,6 @@
     },
     "require-dev": {
         "orchestra/testbench": "^3.8"
+        "composer/composer": "^2.0"
     }
 }
