@@ -1,5 +1,7 @@
 <?php
-namespace kynm\SayHello;
+
+namespace App;
+
 class Testcase
 {
     public static function world()
