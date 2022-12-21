@@ -5,7 +5,7 @@ namespace App;
 use Illuminate\Support\ServiceProvider;
 
 /**
- * Class PasswordServiceProvider
+ * Class ConnectionServiceProvider
  */
 class ConnectionServiceProvider extends ServiceProvider
 {
